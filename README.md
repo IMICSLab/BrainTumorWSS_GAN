@@ -1,4 +1,4 @@
-# Generative Adversarial Networks for Weakly Supervised Generation and Evaluation of Brain Tumor Segmentations on MR Images
+# Generative AI for weakly supervised segmentation and downstream classification of brain tumors on MR images
 Code for training and running weakly supervised brain tumor segmentation models and weakly supervised evaluation of segmentations using non-cancerous variants from generative models. 
 
 ![Flowchart](flowchart.png)
